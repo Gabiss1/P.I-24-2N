@@ -2,4 +2,4 @@
 
 
 <h1>Modelo Lógico</h1>
-<img src="./Modelos/img/modelo_Logico_img"
+<img src="./Modelos/img/modelo_Logico_img.png"
