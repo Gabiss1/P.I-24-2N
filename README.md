@@ -8,6 +8,7 @@
 # Artigo
 
 <a rel="stylesheet" href="./Artigo/Medicapp_Artigo_Pt.pdf" target="_blank"> Artigo em Português </a>
+<a rel="stylesheet" href="./Artigo/Medicapp_Artigo_En.pdf" target="_blank"> Artigo em INglês </a>
 
 <h1>Modelo Conceitual</h1>
 <img src="./Modelos/img/modelo_Conceitual_img.png"><img>
